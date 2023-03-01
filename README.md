@@ -1,4 +1,5 @@
 # iOS-Mega-Helper
+# Deprecated
 A all in one tool to jailbreak/downgrade/restore all iOS devices easily
 
 A single-click tool for all iOS devices, including the Apple TV, that makes it simple to jailbreak, downgrade, or restore a device. 
